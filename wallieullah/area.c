@@ -8,5 +8,5 @@ while(scanf("%2f",R)!=EOF)
 {
 printf("%4f\n",A);
 }
-return 0;
-}
+return 1;
+
